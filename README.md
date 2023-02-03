@@ -1,2 +1,2 @@
 # sSpectralAI
-A sound analysis program using librosa 
+This repository contains a Python script for analyzing music files and extracting meaningful information from them. Using the powerful library librosa, the program is capable of extracting features such as tempo, pitch, and timbre of the audio, as well as generating visualizations of the audio signal. The code provides an easy-to-use framework for music analysis and is ideal for researchers, musicians, and audio engineers looking to better understand the structure and properties of music.
